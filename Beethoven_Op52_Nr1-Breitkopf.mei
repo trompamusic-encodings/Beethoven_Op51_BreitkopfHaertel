@@ -251,6 +251,7 @@
                                 </layer>
                                 <layer xml:id="layer-0000000385603764" n="2">
                                     <space xml:id="space-0000001884298549" dur="2"/>
+                                    <clef xml:id="clef-0000001755813831" sameas="#clef-0000000173661827" />
                                     <note xml:id="note-0000000464370734" dur="2" oct="3" pname="f" stem.dir="down"/>
                                 </layer>
                             </staff>

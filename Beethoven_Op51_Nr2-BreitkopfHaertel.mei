@@ -7,7 +7,7 @@
             <titleStmt>
                 <title>RONDO</title>
                 <title type="subordinate" n="1">G-Dur</title>
-                <title type="subordinate" n="2" label="Opus number">Opus 52 Nr. 2</title>
+                <title type="subordinate" n="2" label="Opus number">Opus 51 Nr. 2</title>
                 <respStmt>
                     <persName role="composer">Ludwig van Beethoven</persName>
                     <persName role="encoder" enddate="2020-01-01T19:51:50">Werner Goebl</persName>
@@ -58,7 +58,7 @@
                                 <rend xml:id="rend-0000002081006989" fontsize="20.00%">
                                     <lb xml:id="lb-0000000072357948"/> <lb xml:id="lb-0000000933077864"/>
                                 </rend>
-                                <rend xml:id="rend-0000000481656544" halign="center" valign="middle" fontsize="100.00%">Op. 52. No. 2.<lb xml:id="lb-0000001641182069"/>
+                                <rend xml:id="rend-0000000481656544" halign="center" valign="middle" fontsize="100.00%">Op. 51. No. 2.<lb xml:id="lb-0000001641182069"/>
                                 </rend>
                             </rend>
                         </pgHead>

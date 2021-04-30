@@ -27,8 +27,8 @@
                         Beethoven</persName>
                 </composer>
                 <relationList>
-                    <relation rel="hasPart" target="Beethoven_Op52_Nr1-Breitkopf.mei" />
-                    <relation rel="hasPart" target="Beethoven_Op52_Nr2-Breitkopf.mei" />
+                    <relation rel="hasPart" target="Beethoven_Op51_Nr1-Breitkopf.mei" />
+                    <relation rel="hasPart" target="Beethoven_Op51_Nr2-Breitkopf.mei" />
                 </relationList>
             </work>
         </workList>
